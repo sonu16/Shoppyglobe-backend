@@ -81,3 +81,7 @@ This will launch the server on the specified port (default is 3300).
 - **PUT /cart/:id**: Update the quantity of a product in the cart.
 - **DELETE /cart/:productId**: Remove a product from the cart.
 
+## Developed by Mohd Shahid
+
+#### Project link:- [https://github.com/sonu16/Shoppyglobe-backend.git](https://github.com/sonu16/Shoppyglobe-backend.git)
+
